@@ -1,0 +1,8 @@
+Types of graphs are
+
+1. Bar graph
+2. Histograms
+3. Scatter Plot
+4. Pie Plot
+5. Hexagonal Bin Plot
+6. Area Plot
